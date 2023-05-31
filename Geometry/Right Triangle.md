@@ -1,0 +1,1 @@
+A Triangle where one of the angles is a [[Right Angle]].

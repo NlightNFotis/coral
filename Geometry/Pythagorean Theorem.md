@@ -1,4 +1,4 @@
-The theorem states that for a right triangle, the square of the hypotenuse length equals the sum of the two other side measures squared.
+The theorem states that for a [[Right Triangle]], the square of the hypotenuse length equals the sum of the two other side measures squared.
 
 In equation form, it's
 $$a^2 + b^2 = c^2$$
