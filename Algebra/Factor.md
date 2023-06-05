@@ -1,0 +1,1 @@
+If $A = B * C$, we say that $B$ and $C$ are *factors* of $A$, and that $A$ is *divisible* by $B$ and $C$.

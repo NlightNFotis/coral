@@ -11,7 +11,9 @@ $$-3d^4$$
 $$y^3+5y$$
 $$2o$$
 $$6$$
-(The last example is equivalent to $6x^0$)
+(The last example is equivalent to $6x^0$).
+
+Polynomials of one term are also usually called [[Monomial]]s and polynomials of two terms are usually called [[Binomial]]s. There's also the term [[Trinomial]] for polynomials of three terms, but we usually just call them Poly-* for any polynomial with more than two terms. 
 
 ## Polynomial Arithmetic
 
@@ -19,6 +21,7 @@ $$6$$
 To *add* two polynomials, we *add* the like terms together.
 
 If for a certain degree one of two addends doesn't have a term of that degree, we just copy that term to the final sum.
+
 $$
 \begin{aligned}
 (x^2 + 4x + 5) + (x^3 + 5x)\\
