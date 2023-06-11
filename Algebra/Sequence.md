@@ -1,0 +1,1 @@
+A *sequence* is an ordered collection of terms.
